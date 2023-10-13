@@ -1,2 +1,2 @@
 # Snake_Game
-It using full of Java language.
+It using full of html css language.
